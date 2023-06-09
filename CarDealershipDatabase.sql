@@ -40,7 +40,7 @@ Values(4, "Reliable Cars","54th Street", "914-776-6055");
 INSERT INTO Dealerships
 Values(5, "Cheap Cars","253th Street", "947-894-2129");    
 
--- Adding Vehicles into  Dealership 1 in the Vehicles Table
+-- Adding vehicles into  Dealership 1 in the Vehicles Table
 INSERT INTO Vehicles
 VALUES("WBAAG0103D8602832", "BMW", "M3", "2023", "75295.00", 0);
 
@@ -50,4 +50,22 @@ VALUES("5UXZV4C52D0B06237", "BMW", "M3", "2024", "80000.00", 0);
 INSERT INTO Vehicles
 VALUES("WBACG7320WAS99603", "BMW", "M4", "2024", "77995.00", 1);
 
+-- Adding vehicles into Dealership 2 in the Vehicles Table
+INSERT INTO Vehicles
+VALUES("1GDK7H1M1WJ511624", "GMC", "Yukon", "2016", "20000.00", 1);
 
+INSERT INTO Vehicles
+VALUES("1GKGG25R721175098", "GMC", "YukonXL", "2015", "22000.00", 0);
+
+INSERT INTO Vehicles
+VALUES("3GTP2TEAXBG401355", "GMC", "Acadia", "2017", "25000.00", 0);
+
+-- Adding vehicles into Dealership 3 in the Vehicles Table
+INSERT INTO Vehicles
+VALUES("5YJRE11B081000394", "Tesla", "Model Y", "2022", "65000.00", 1);
+
+INSERT INTO Vehicles
+VALUES("5YJSA2DP8DFP22249", "Tesla", "Model Y", "2023", "75000.00", 1);
+
+INSERT INTO Vehicles
+VALUES("5YJSA1E22FF106191", "Tesla", "Model X", "2023", "75000.00", 0);
