@@ -80,8 +80,13 @@ VALUES("JN8AR07S8XW388740", "Nissan", "Versa", "2018", "18000.00", 1);
 INSERT INTO Vehicles
 VALUES("19XFB2F80FE117901", "Honda", "Civic", "2018", "19000.00", 0);
 
+-- Adding vehicles into Dealership 5 in the Vehicles Table
+INSERT INTO Vehicles
+VALUES("5XYKTDA66CG274778", "Kia", "Sorento", "2012", "7990.00", 0);
 
+INSERT INTO Vehicles
+VALUES("1N4AL2AP5CN456091", "Nissan", "Altima", "2012", "6990.00", 0);
 
-
-
+INSERT INTO Vehicles
+VALUES("2HKYF18145H552339", "Honda", "Pilot", "2005", "5995.00", 0);
 
