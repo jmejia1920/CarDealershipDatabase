@@ -38,7 +38,7 @@ INSERT INTO Dealerships
 Values(4, "Reliable Cars","54th Street", "914-776-6055"); 
 
 INSERT INTO Dealerships
-Values(5, "Cheap Cars","253th Street", "947-894-2129");    
+Values(5, "Cheap Cars","253rd Street", "947-894-2129");    
 
 -- Adding vehicles into  Dealership 1 in the Vehicles Table
 INSERT INTO Vehicles
@@ -69,3 +69,19 @@ VALUES("5YJSA2DP8DFP22249", "Tesla", "Model Y", "2023", "75000.00", 1);
 
 INSERT INTO Vehicles
 VALUES("5YJSA1E22FF106191", "Tesla", "Model X", "2023", "75000.00", 0);
+
+-- Adding vehicles into Dealership 4 in the Vehicles Table
+INSERT INTO Vehicles
+VALUES("1N6FD01S1EC325161", "Nissan", "Altima", "2020", "20000.00", 2);
+
+INSERT INTO Vehicles
+VALUES("JN8AR07S8XW388740", "Nissan", "Versa", "2018", "18000.00", 1);
+
+INSERT INTO Vehicles
+VALUES("19XFB2F80FE117901", "Honda", "Civic", "2018", "19000.00", 0);
+
+
+
+
+
+
